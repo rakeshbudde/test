@@ -850,18 +850,7 @@ body {
 					<img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
 					<p>No, I told him that.</p>
 				</li>
-				<li class="replies">
-					<img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
-					<p>What are your choices when someone puts a gun to your head?</p>
-				</li>
-				<li class="sent">
-					<img src="http://emilcarlsson.se/assets/mikeross.png" alt="" />
-					<p>What are you talking about? You do what they say or they shoot you.</p>
-				</li>
-				<li class="replies">
-					<img src="http://emilcarlsson.se/assets/harveyspecter.png" alt="" />
-					<p>Wrong. You take the gun, or you pull out a bigger one. Or, you call their bluff. Or, you do any one of a hundred and forty six other things.</p>
-				</li>
+				
 			</ul>
 		</div>
 		<div class="message-input">
