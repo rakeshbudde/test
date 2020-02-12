@@ -73,7 +73,7 @@ body{
             <div class="row d-flex justify-content-center">
                 
                 <div class="col-md-5 login-form-1 text-center">
-                    <h3>Reset Your Password</h3>
+                    <h3>Reset Password</h3>
                     <form> 
                         <div class="form-group">
                             <input type="email" class="form-control" placeholder="Your Email" value="" required />
